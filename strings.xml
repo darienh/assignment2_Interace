@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="window1">Emerald</string>	
+	<string name="window2">Window Two</string>
+	<string name="openWindow">Explore!</string>
+	<string name="newWindow">More Shades</string>
+</resources>
